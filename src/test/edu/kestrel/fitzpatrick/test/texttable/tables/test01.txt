@@ -1,0 +1,9 @@
+                  Test 1                   
+┌──────────┬──────────┬─────────┬──────────┐
+│          │  Monday  │ Tuesday │ Wednesday│
+├──────────┼──────────┼─────────┼──────────┤
+│Breakfast │ cereal   │ eggs    │ fruit    │
+│Lunch     │ sandwich │ salad   │ sushi    │
+│Dinner    │ steak    │ fish    │ pasta    │
+└──────────┴──────────┴─────────┴──────────┘
+

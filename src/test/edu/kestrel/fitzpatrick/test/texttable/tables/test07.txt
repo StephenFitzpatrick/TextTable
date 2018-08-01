@@ -1,0 +1,83 @@
+                    Populations,                     
+                with no auto-suppress                
+┌──────────────┬─────────┬───────────────┬───────────┐
+│  Continent   │ Country │     City      │ Population│
+├──────────────┼─────────┼───────────────┼───────────┤
+│Europe        │ UK      │ London        │  8,615,246│
+│Europe        │ UK      │ Birmingham    │  1,224,136│
+│Europe        │ UK      │ Glasgow       │    801,198│
+│Europe        │ UK      │ Leeds         │    761,481│
+│Europe        │ France  │ Paris         │  2,249,975│
+│Europe        │ France  │ Marseille     │    850,636│
+│Europe        │ France  │ Lyon          │    491,268│
+│Europe        │ France  │ Toulouse      │    447,340│
+│Europe        │ Spain   │ Madrid        │  2,824,000│
+│Europe        │ Spain   │ Barcelona     │  1,454,000│
+│Europe        │ Spain   │ Valencia      │    736,000│
+│Europe        │ Spain   │ Sevilla       │    695,000│
+│North America │ Canada  │ Toronto       │  2,731,579│
+│North America │ Canada  │ Montreal      │  1,704,694│
+│North America │ Canada  │ Calgary       │  1,239,220│
+│North America │ Canada  │ Ottawa        │    934,243│
+│North America │ USA     │ New York City │  8,175,133│
+│North America │ USA     │ Los Angeles   │  3,792,621│
+│North America │ USA     │ Chicago       │  2,695,598│
+│North America │ USA     │ Houston       │  2,099,451│
+└──────────────┴─────────┴───────────────┴───────────┘
+
+                    Populations,                     
+           with auto-suppress columns = 1,           
+                    no auto-lines                    
+┌──────────────┬─────────┬───────────────┬───────────┐
+│  Continent   │ Country │     City      │ Population│
+├──────────────┼─────────┼───────────────┼───────────┤
+│Europe        │ UK      │ London        │  8,615,246│
+│              │ UK      │ Birmingham    │  1,224,136│
+│              │ UK      │ Glasgow       │    801,198│
+│              │ UK      │ Leeds         │    761,481│
+│              │ France  │ Paris         │  2,249,975│
+│              │ France  │ Marseille     │    850,636│
+│              │ France  │ Lyon          │    491,268│
+│              │ France  │ Toulouse      │    447,340│
+│              │ Spain   │ Madrid        │  2,824,000│
+│              │ Spain   │ Barcelona     │  1,454,000│
+│              │ Spain   │ Valencia      │    736,000│
+│              │ Spain   │ Sevilla       │    695,000│
+│North America │ Canada  │ Toronto       │  2,731,579│
+│              │ Canada  │ Montreal      │  1,704,694│
+│              │ Canada  │ Calgary       │  1,239,220│
+│              │ Canada  │ Ottawa        │    934,243│
+│              │ USA     │ New York City │  8,175,133│
+│              │ USA     │ Los Angeles   │  3,792,621│
+│              │ USA     │ Chicago       │  2,695,598│
+│              │ USA     │ Houston       │  2,099,451│
+└──────────────┴─────────┴───────────────┴───────────┘
+
+                    Populations,                     
+           with auto-suppress columns = 2,           
+              with auto-lines (default)              
+┌──────────────┬─────────┬───────────────┬───────────┐
+│  Continent   │ Country │     City      │ Population│
+├──────────────┼─────────┼───────────────┼───────────┤
+│Europe        │ UK      │ London        │  8,615,246│
+│              │         │ Birmingham    │  1,224,136│
+│              │         │ Glasgow       │    801,198│
+│              │         │ Leeds         │    761,481│
+│              │ France  │ Paris         │  2,249,975│
+│              │         │ Marseille     │    850,636│
+│              │         │ Lyon          │    491,268│
+│              │         │ Toulouse      │    447,340│
+│              │ Spain   │ Madrid        │  2,824,000│
+│              │         │ Barcelona     │  1,454,000│
+│              │         │ Valencia      │    736,000│
+│              │         │ Sevilla       │    695,000│
+├──────────────┼─────────┼───────────────┼───────────┤
+│North America │ Canada  │ Toronto       │  2,731,579│
+│              │         │ Montreal      │  1,704,694│
+│              │         │ Calgary       │  1,239,220│
+│              │         │ Ottawa        │    934,243│
+│              │ USA     │ New York City │  8,175,133│
+│              │         │ Los Angeles   │  3,792,621│
+│              │         │ Chicago       │  2,695,598│
+│              │         │ Houston       │  2,099,451│
+└──────────────┴─────────┴───────────────┴───────────┘
